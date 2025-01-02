@@ -127,7 +127,7 @@ export default function Home() {
                 Email Me
               </Link>
               <Link
-                href="/Salah-Shaalaan Resume.pdf"
+                href="/SalahShaalaan-resume.pdf"
                 target="_blank"
                 className="flex items-center gap-2 border-2 border-[#ccf381] text-[#ccf381] px-6 py-3 rounded-xl hover:bg-[#ccf381] hover:text-[#4831d4] transition-colors"
               >
